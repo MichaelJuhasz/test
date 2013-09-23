@@ -1,0 +1,23 @@
+.night {
+	background: #143036;
+}
+
+.day {
+	background: #61E4FF;
+}
+
+#clock{
+	color: #AEF1FF;
+	text-shadow: 0 0 10px #C6F5FF;
+}
+
+div {
+	text-align: center;
+	color: #4EB6CC;
+	font: small-caps bold 6em 'Kelly Slab', cursive;
+	text-shadow: 2px 2px 2px #000;
+}
+
+p {
+	margin: 0;
+}
